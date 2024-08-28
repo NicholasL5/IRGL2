@@ -11,4 +11,7 @@ Resolusi layar harus 1920 x 1080
 
 ## Video Demo
 
-[![Video Demo Thumbnail](Preview/Screenshot%20(5).png)](Preview/IRGL2-DEMO.mp4)
+<video width="640" height="360" controls>
+  <source src="Preview/IRGL2-DEMO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
